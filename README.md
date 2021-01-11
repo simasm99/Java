@@ -11,7 +11,7 @@ Press letter p to open console in order to move using pseudoCode.(there is many 
 PseudoCommands: <br /> <br />
 !!!IMPORTATNT after each command you must put value and after value put one space and enter to write a command.<br />
 
-You can find commands in funcion updatePlayerPseudo() in player.java file.(I know bad funcion, should have made it a lot shorter and divided in smaller funcions. First I had to make just game, and after 3 months next task was to make player move with pseudocode. If I knew from the start would have coded different, but didnt have time to redo half of the program)<br />
+You can find commands in funcion updatePlayerPseudo() in player.java file.(I know bad funcion, should have made it a lot shorter and divided in smaller funcions. First I had to make just game, and after 3 months next task was to make player move with pseudocode. If I knew from the start would have coded differently, but didnt have time to redo half of the program.)<br />
 
 Example command to clear first level:<br />
 teleport 128 3776 <br />
